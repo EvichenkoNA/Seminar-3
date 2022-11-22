@@ -92,3 +92,5 @@
 
     git checkout master
 
+# Ветвление
+
