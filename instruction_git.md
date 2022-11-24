@@ -106,6 +106,10 @@
 
     git branch <new_branch_name>
 
+Чтобы переключиться на ветку нужно использовать уже знакомую нам команду:
+
+    git checkout <new_branch_name>
+
 
 
 
